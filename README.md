@@ -5,7 +5,7 @@ En una librería donde se manejan cientos o de títulos: tener todo organizado p
 Además, en una librería, el sistema garantiza que los procesos sean eficientes y ordenados, evitando errores o falta de control en inventarios.
 Por lo que se genera una estructura de clases para poder manejar la gestión en la libreria.
 ## Funcionalidad
-El programa permite alta de nuevos libros y clientes y gestion de pedidos.
+El programa permite alta de nuevos libros, clientes y gestion de pedidos.
 ## Consideraciones
 El programa solo corre en la consola y esta hecho con c++ standard por lo que corre en todos los sistemas operativos
 
