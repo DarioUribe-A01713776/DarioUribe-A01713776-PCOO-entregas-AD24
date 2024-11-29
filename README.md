@@ -21,6 +21,6 @@ Se corrigieron muchas cosas:
 Implementación correcta de constructores, setters y getters.
 Se realizo de nuevo el uml, implementado la herencia y composición.
 
-A medida que avanzaba el proyecto me di cuenta que hice una mala abstracción, por lo que retome otro enfoque, llendome más hacia la gestión de inventaros y no de usuarios, ya que crei que seria más útil la POO en este contexto. Tome los consejos, y clases del profesor. Trate de mantene un clean code, y le puse mucho esfuerzo.
+A medida que avanzaba el proyecto me di cuenta que hice una mala abstracción, por lo que retome otro enfoque mas hacia la gestión de inventaros y no de usuarios, ya que crei que seria más útil la POO en este contexto. Tome los consejos, y clases del profesor. Trate de mantene un clean code, y le puse mucho esfuerzo.
 
 Grcias <3
